@@ -72,10 +72,6 @@
 			}
 		],
 		"parameters": {
-			"RootPath": {
-				"type": "string",
-				"defaultValue": "adfdemo / CopyData"
-			},
 			"FileName": {
 				"type": "string",
 				"defaultValue": "dbo_tblEmployee.csv"
