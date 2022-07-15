@@ -159,7 +159,7 @@
 								"formatSettings": {
 									"type": "DelimitedTextWriteSettings",
 									"quoteAllText": true,
-									"fileExtension": ".txt"
+									"fileExtension": ".csv"
 								}
 							},
 							"enableStaging": false,
@@ -204,7 +204,7 @@
 				"parameters": {
 					"RootPath": {
 						"type": "string",
-						"defaultValue": " adfdemo/CopyData"
+						"defaultValue": "adfdemo / CopyData"
 					},
 					"FileName": {
 						"type": "string",
