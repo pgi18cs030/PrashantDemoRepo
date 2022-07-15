@@ -1,5 +1,13 @@
 {
 	"name": "ADFPrashantDemo",
+	"properties": {
+		"globalParameters": {
+			"RootPath": {
+				"type": "string",
+				"value": "adfdemo/Output"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
